@@ -1,2 +1,6 @@
 dotnet new console
 dotnet run
+
+# help
+dotnet help new
+dotnet new console -h
